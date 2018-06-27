@@ -21,6 +21,9 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+- Layout has been changed to constraint layout, edges have been snapped 
+- Save button has been centered 
+- logo image has been added 
 
 ## Video Walkthrough
 
